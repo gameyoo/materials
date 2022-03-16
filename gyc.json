@@ -1,6 +1,6 @@
 {
-  "name": "GYC Coin",
+  "name": "GYC Token",
   "symbol": "GYC",
-  "description": "The GameYoo platform main coin.",
+  "description": "The GameYoo platform main token.",
   "image": "https://github.com/gameyoo/materials/blob/main/gyc.png"
 }
